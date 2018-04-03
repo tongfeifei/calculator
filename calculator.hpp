@@ -1,14 +1,4 @@
 ///
-/// @file      calculator.hpp
-/// @brief     calculator::eval(const std::string&) evaluates an integer
-///            arithmetic expression and returns the result. If an error
-///            occurs a calculator::error exception is thrown.
-///            <https://github.com/kimwalisch/calculator>
-/// @author    Kim Walisch, <kim.walisch@gmail.com>
-/// @copyright Copyright (C) 2013-2018 Kim Walisch
-/// @license   BSD 2-Clause, https://opensource.org/licenses/BSD-2-Clause
-/// @version   1.2
-///
 /// == Supported operators ==
 ///
 /// OPERATOR    NAME                     ASSOCIATIVITY    PRECEDENCE
